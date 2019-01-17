@@ -1,0 +1,1 @@
+select * from share_server.user

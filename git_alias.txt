@@ -1,0 +1,39 @@
+alias gst='git status'
+alias ga='git add .'
+alias gc='git commit '
+alias gcm='git commit -m '
+alias gpl='git pull '
+alias gps='git push '
+#日志
+alias gl='git log'
+alias glp='git log --pretty=oneline'
+#查看
+alias grv='git remote -v'
+alias grs='git remote show origin'
+#查看分支
+alias gb='git branch '
+alias gba='git branch -a '
+#切换/创建 分支
+alias gco='git checkout'
+alias gcob='git checkout -b '
+#合并分支
+alias gm='git merge '
+#暂存代码
+alias gstl='git stash list '
+alias gsta='git stash apply '
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
